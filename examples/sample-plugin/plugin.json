@@ -1,0 +1,7 @@
+{
+  "name": "Djalimen Sample Plugin",
+  "version": "1.0.0",
+  "description": "Contoh plugin aman untuk menguji daftar plugin dan WebUI lokal.",
+  "entry": "action.sh",
+  "web": "index.html"
+}

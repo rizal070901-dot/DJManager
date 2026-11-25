@@ -1,0 +1,1 @@
+-keep class com.djalimen.manager.core.DjalimenServer { *; }
